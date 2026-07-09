@@ -2,6 +2,10 @@
 
 42 Project
 
+[!WARNING]
+The library used for this project, minilibx, is no longer usable with up to
+date compilers.
+
 Wireframe Renderer
 
 Takes an input file containing a 2D map of heights, and renders each elements connections to the left, right, forward and back.
